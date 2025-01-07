@@ -6,9 +6,7 @@
 
 ###
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=[https://www.youtube.com/@jbpdev/](https://www.youtube.com/@jbpdev))](https://www.youtube.com/@jbpdev)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbrunops/)](https://www.linkedin.com/in/jbrunops/) 
-[![Outlook Badge](https://img.shields.io/badge/-jbrunops@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbrunops@outlook.com)](mailto:jbrunops@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jbrunops/)](https://www.instagram.com/jbrunops/)
 
 
