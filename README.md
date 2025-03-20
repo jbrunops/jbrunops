@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am currently pursuing a degree in Systems Analysis and Development at Anhanguera Educacional, where I am acquiring a solid foundation in essential industry fundamentals. To complement my academic background, I am dedicating myself to studying full stack development and UX/UI design through courses and practical projects. This combination of technical knowledge and a focus on user experience allows me to create technological solutions that are both functional and intuitive. I am continually enhancing my skills to become a full stack developer with solid experience in UX/UI, integrating user-centered design with efficient software development.</p>
+<p align="left">I am a Systems Analysis and Development student at Anhanguera Educacional, complementing my education with studies in full stack development and UX/UI design. My goal is to integrate technical skills and user experience focus to create comprehensive and intuitive web solutions.</p>
 
 ###
 
