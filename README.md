@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera Educacional, complementando minha formação com estudos em desenvolvimento full stack e design UX/UI. Meu objetivo é integrar habilidades técnicas e o foco na experiência do usuário para criar soluções web completas e intuitivas.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, complementando minha formação com estudos em desenvolvimento full stack e design UX/UI. Meu objetivo é integrar habilidades técnicas e o foco na experiência do usuário para criar soluções web completas e intuitivas.</p>
 
 ###
 
