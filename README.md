@@ -1,8 +1,8 @@
-<h3 align="left">Hello, welcome to my GitHub profile! 😊👋</h3>
+<h3 align="left">Olá, bem-vindo ao meu perfil no GitHub! 😊👋</h3>
 
 ###
 
-<p align="left">I am a Systems Analysis and Development student at Anhanguera Educacional, complementing my education with studies in full stack development and UX/UI design. My goal is to integrate technical skills and user experience focus to create comprehensive and intuitive web solutions.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera Educacional, complementando minha formação com estudos em desenvolvimento full stack e design UX/UI. Meu objetivo é integrar habilidades técnicas e o foco na experiência do usuário para criar soluções web completas e intuitivas.</p>
 
 ###
 
