@@ -1,8 +1,8 @@
 <h3 align="left">Welcome to my GitHub Profile</h3>
 
 <p align="left">
-I am currently pursuing a degree in <strong>Systems Analysis and Development</strong> at Faculdade Pitágoras and transitioning into <strong>full stack</strong> web development, focusing on <strong>React</strong> for the front end and <strong>.NET</strong> for the back end.<br><br>
-I have also explored languages such as <strong>Java</strong> and <strong>Python</strong> through my academic studies. My goal is to build modern, secure, and scalable web applications that deliver an excellent user experience.<br><br>
+I am currently pursuing a degree in <strong>Systems Analysis and Development</strong> at Faculdade Pitágoras and transitioning into <strong>full stack</strong> web development, focusing on <strong>Angular</strong> for the front end and <strong>Java (Spring Boot)</strong> for the back end.<br><br>
+I have also worked with <strong>JavaScript</strong>, <strong>TypeScript</strong>, and explored languages such as <strong>Python</strong> through my academic studies. My goal is to build modern, secure, and scalable web applications that deliver an excellent user experience.<br><br>
 I am always open to learning opportunities, collaboration, and professional growth.
 </p>
 
